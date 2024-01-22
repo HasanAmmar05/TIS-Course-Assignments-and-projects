@@ -1,1 +1,1 @@
-# Assignment_1
+# Assignment 1 : In the ICT jobs poster assignment, our team showcased the dynamic world of Information and Communication Technology careers. We highlighted opportunities, skills, and the exciting future of the industry.
