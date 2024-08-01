@@ -1,4 +1,4 @@
-# Technoloy and information systems course Assignments and projects
+# Technology and information systems course Assignments and projects
 Assignment 1: In the ICT jobs poster assignment, our team showcased the dynamic world of Information and Communication Technology careers. We highlighted opportunities, skills, and the exciting future of the industry.
 Assignment 2: In this Assignment, I learned how to work with a team and discuss different aspects of the assignment it really helped me learn new things and contribute to the success of the group
 Assignment 3: Becoming a proficient system developer at a high level takes time, patience, and effort. I'm committed to working hard, learning multiple programming languages, and mastering various tools to enhance my skills as a professional system developer.
